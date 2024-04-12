@@ -10,7 +10,7 @@ Web Developer
        alt="snake" /></a>
 </div>
 
-With 3 years of experience in software development and maintenance, I have acquired expertise in various technologies and programming languages. I possess outstanding skills in communication, collaboration, and the ability to adapt to different situations.
+With +2 years of experience in software development and maintenance, I have acquired expertise in various technologies and programming languages. I possess outstanding skills in communication, collaboration, and the ability to adapt to different situations.
 
 * 🌍  I'm based in Lima, Perú
 * ✉️  You can contact me at [vargasvargas.ric@gmail.com](mailto:vargasvargas.ric@gmail.com)
